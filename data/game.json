@@ -1,0 +1,20 @@
+{
+  "game": "Pokemon_Showdown",
+	"creator": "Buwaro",
+  "filler_item_name": "PP Plus",
+  "starting_items": [
+    {
+      "items": [
+        "Feraligatr",
+        "Furret",
+        "Gardevoir",
+        "Joltik",
+        "Mismagius",
+        "Sneasel",
+        "Swadloon",
+        "Trapinch",
+        "Umbreon"
+      ]
+    }
+  ]
+}

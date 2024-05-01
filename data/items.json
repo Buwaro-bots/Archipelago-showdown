@@ -1,0 +1,1210 @@
+[ 
+	{
+		"count":1,
+		"name": "Abomasnow",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Alomomola",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Amoonguss",
+		"category": ["Pokémon","Double OU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Araquanid",
+		"category": ["Pokémon","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Arboliva",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Arcanine",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Arcanine-Hisui",
+		"category": ["Pokémon","UU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Archaludon",
+		"category": ["Pokémon","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Armarouge",
+		"category": ["Pokémon","Double OU","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Articuno",
+		"category": ["Pokémon","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Azumarill",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Barraskewda",
+		"category": ["Pokémon","OU", "UU", "RU", "Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Basculegion-F",
+		"category": ["Pokémon","Double OU","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Baxcalibur",
+		"category": ["Pokémon","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Blaziken",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Blissey",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Bronzong",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Brute Bonnet",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Ceruledge",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Chi-Yu",
+		"category": ["Pokémon","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Chien-Pao",
+		"category": ["Pokémon","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Cinderace",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Clefable",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Clefairy",
+		"category": ["Pokémon","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Clodsire",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Comfey",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Corviknight",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Cresselia",
+		"category": ["Pokémon","Double OU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Darkrai",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Deoxys",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Deoxys-Attack",
+		"category": ["Pokémon","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Deoxys-Speed",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Diancie",
+		"category": ["Pokémon","Double OU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Dondozo",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Donphan",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Dragapult",
+		"category": ["Pokémon","OU","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Dragonite",
+		"category": ["Pokémon","OU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Enamorus",
+		"category": ["Pokémon","OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Entei",
+		"category": ["Pokémon","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Excadrill",
+		"category": ["Pokémon","OU","UU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Farigiraf",
+		"category": ["Pokémon","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Flamigo",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Garchomp",
+		"category": ["Pokémon","OU","UU","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Garganacl",
+		"category": ["Pokémon","OU","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Gastrodon",
+		"category": ["Pokémon","Double OU","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Gholdengo",
+		"category": ["Pokémon","OU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Glimmora",
+		"category": ["Pokémon","OU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Gliscor",
+		"category": ["Pokémon","OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Goodra-Hisui",
+		"category": ["Pokémon","UU","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Gouging Fire",
+		"category": ["Pokémon","OU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Grafaiai",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Great Tusk",
+		"category": ["Pokémon","OU","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Greninja",
+		"category": ["Pokémon","OU","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Grimmsnarl",
+		"category": ["Pokémon","UU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Gyarados",
+		"category": ["Pokémon","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Hatterene",
+		"category": ["Pokémon","OU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Hawlucha",
+		"category": ["Pokémon","OU","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Heatran",
+		"category": ["Pokémon","OU","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Hippowdon",
+		"category": ["Pokémon","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Hitmontop",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Hoopa-Unbound",
+		"category": ["Pokémon","UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Houndstone",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Hydrapple",
+		"category": ["Pokémon","UU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Hydreigon",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Incineroar",
+		"category": ["Pokémon","Double OU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Indeedee",
+		"category": ["Pokémon","UU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Indeedee-F",
+		"category": ["Pokémon","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Iron Boulder",
+		"category": ["Pokémon","OU", "UU", "Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Iron Bundle",
+		"category": ["Pokémon","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Iron Crown",
+		"category": ["Pokémon","OU","UU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Iron Hands",
+		"category": ["Pokémon","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Iron Moth",
+		"category": ["Pokémon","OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Iron Treads",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Iron Valiant",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Jirachi",
+		"category": ["Pokémon","UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Keldeo",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Kingambit",
+		"category": ["Pokémon","OU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Kommo-o",
+		"category": ["Pokémon","UU","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Kyurem",
+		"category": ["Pokémon","OU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Landorus",
+		"category": ["Pokémon","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Landorus-Therian",
+		"category": ["Pokémon","OU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Latios",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Lilligant-Hisui",
+		"category": ["Pokémon","OU","Double OU", "Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Lokix",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Malamar",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Mamoswine",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Manaphy",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Mandibuzz",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Maushold",
+		"category": ["Pokémon","Double OU","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Meowscarada",
+		"category": ["Pokémon","OU","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Metagross",
+		"category": ["Pokémon","UU","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Mew",
+		"category": ["Pokémon","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Mimikyu",
+		"category": ["Pokémon","UU","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Moltres-Galar",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Murkrow",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Ninetales",
+		"category": ["Pokémon","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Ninetales-Alola",
+		"category": ["Pokémon","OU","UU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Ogerpon",
+		"category": ["Pokémon","UU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Ogerpon-Cornerstone",
+		"category": ["Pokémon","UU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Ogerpon-Hearthflame",
+		"category": ["Pokémon","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Ogerpon-Wellspring",
+		"category": ["Pokémon","OU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Oranguru",
+		"category": ["Pokémon","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Palafin",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Pecharunt",
+		"category": ["Pokémon","UU","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Pelipper",
+		"category": ["Pokémon", "OU", "UU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Politoed",
+		"category": ["Pokémon","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Polteageist",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Milotic",
+		"category": ["Pokémon","Double OU", "Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Porygon2",
+		"category": ["Pokémon","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Primarina",
+		"category": ["Pokémon","OU","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Quaquaval",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Raging Bolt",
+		"category": ["Pokémon","OU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Regidrago",
+		"category": ["Pokémon","Double OU","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Regieleki",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Regigigas",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Rhyperior",
+		"category": ["Pokémon","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Ribombee",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Rillaboom",
+		"category": ["Pokémon","OU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Roaring Moon",
+		"category": ["Pokémon","OU","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Rotom-Wash",
+		"category": ["Pokémon","OU","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Sableye",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Salamence",
+		"category": ["Pokémon","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Samurott-Hisui",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Sandy Shocks",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Scizor",
+		"category": ["Pokémon","OU","UU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Serperior",
+		"category": ["Pokémon","OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Sinistcha",
+		"category": ["Pokémon","UU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Skarmory",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Skeledirge",
+		"category": ["Pokémon","OU","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Slaking",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Slowking",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Slowking-Galar",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Sneasler",
+		"category": ["Pokémon","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Spectrier",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Sylveon",
+		"category": ["Pokémon","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Talonflame",
+		"category": ["Pokémon","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Thundurus",
+		"category": ["Pokémon","Double UU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Thundurus-Therian",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Ting-Lu",
+		"category": ["Pokémon","OU","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Tinkaton",
+		"category": ["Pokémon","UU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Torkoal",
+		"category": ["Pokémon","OU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Tornadus",
+		"category": ["Pokémon","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Tornadus-Therian",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Toxapex",
+		"category": ["Pokémon","OU","UU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Typhlosion-Hisui",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Tyranitar",
+		"category": ["Pokémon","OU","UU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Ursaluna",
+		"category": ["Pokémon","OU","UU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Ursaluna-Bloodmoon",
+		"category": ["Pokémon","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Volcanion",
+		"category": ["Pokémon","Double OU", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Volcarona",
+		"category": ["Pokémon","OU","Double OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Walking Wake",
+		"category": ["Pokémon","OU","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Weavile",
+		"category": ["Pokémon","OU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Weezing-Galar",
+		"category": ["Pokémon","UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Whimsicott",
+		"category": ["Pokémon","Double OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Wo-Chien",
+		"category": ["Pokémon","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Zamazenta",
+		"category": ["Pokémon","OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Zapdos",
+		"category": ["Pokémon","OU","UU","Double UU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Reuniclus",
+		"category": ["Pokémon", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Latias",
+		"category": ["Pokémon", "OU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Chansey",
+		"category": ["Pokémon", "RU"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Cyclizar",
+		"category": ["Pokémon", "RU", "RU special unlock"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Kleavor",
+		"category": ["Pokémon", "RU", "RU special unlock"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Bisharp",
+		"category": ["Pokémon", "RU", "RU special unlock"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Cobalion",
+		"category": ["Pokémon", "RU", "RU special unlock"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Empoleon",
+		"category": ["Pokémon", "RU", "RU special unlock"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Gengar",
+		"category": ["Pokémon", "RU", "RU special unlock"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Forretress",
+		"category": ["Pokémon", "RU", "RU special unlock"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Revavroom",
+		"category": ["Pokémon", "RU", "RU special unlock"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Moltres",
+		"category": ["Pokémon", "RU", "RU special unlock"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Blastoise",
+		"category": ["Pokémon", "RU", "RU special unlock"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Zarude",
+		"category": ["Pokémon", "RU", "RU special unlock"],
+		"progression": true
+		},
+		{
+		"count":1,
+		"name": "Iron Leaves",
+		"category": ["Pokémon", "RU", "RU special unlock"],
+		"progression": true
+		},
+		{
+			"count":1,
+			"name": "Key Sphere 2",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 3",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 4",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 5",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 6",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 7",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 8",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 9",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 10",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 11",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 12",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 13",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 14",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 15",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 16",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 17",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 18",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 19",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Sphere 20",
+			"category": ["Keys"],
+			 "progression_skip_balancing": true 
+			},
+			{
+			"count":1,
+			"name": "Key Victory",
+			"category": ["Keys"],
+				"progression_skip_balancing": true 
+			},
+
+	{
+		"count":1,
+		"name": "Feraligatr",
+		"category": ["Pokémon", "RU"],
+		"filler": true
+	},		
+	{
+		"count":1,
+		"name": "Furret",
+		"category": ["Pokémon"],
+		"filler": true
+	},		
+	{
+		"count":1,
+		"name": "Gardevoir",
+		"category": ["Pokémon", "RU"],
+		"filler": true
+	},		
+	{
+		"count":1,
+		"name": "Joltik",
+		"category": ["Pokémon"],
+		"filler": true
+	},		
+	{
+		"count":1,
+		"name": "Mismagius",
+		"category": ["Pokémon"],
+		"filler": true
+	},		
+	{
+		"count":1,
+		"name": "Sneasel",
+		"category": ["Pokémon"],
+		"filler": true
+	},	
+	{
+		"count":1,
+		"name": "Trapinch",
+		"category": ["Pokémon"],
+		"filler": true
+	},	
+	{
+		"count":1,
+		"name": "Swadloon",
+		"category": ["Pokémon"],
+		"filler": true
+	},		
+	{
+		"count":1,
+		"name": "Umbreon",
+		"category": ["Pokémon", "RU"],
+		"filler": true
+	}
+					
+]

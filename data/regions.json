@@ -1,0 +1,313 @@
+{
+	"Randbat Wins - 1-4": {
+		"connects_to": ["Randbat Wins - 5-8"],
+		"starting": true, "requires": []
+		}, 
+		"Randbat Wins - 5-8": {
+		"connects_to": ["Randbat Wins - 9-12"],
+		"requires": "|Key Sphere 2|"
+		}, 
+		"Randbat Wins - 9-12": {
+		"connects_to": ["Randbat Wins - 13-16"],
+		"requires": "|Key Sphere 3|"
+		}, 
+		"Randbat Wins - 13-16": {
+		"connects_to": ["Randbat Wins - 17-18", "OU Wins - 1-2", "UU Wins - 1-2", "Double OU Wins - 1-2", "Double UU Wins - 1-2"],
+		"requires": "|Key Sphere 4|"
+		}, 
+		"Randbat Wins - 17-18": {
+		"connects_to": ["Randbat Wins - 19-20"],
+		"requires": "|Key Sphere 5|"
+		}, 
+		"Randbat Wins - 19-20": {
+		"connects_to": ["Randbat Wins - 21-22"],
+		"requires": "|Key Sphere 6|"
+		}, 
+		"Randbat Wins - 21-22": {
+		"connects_to": ["Randbat Wins - 23-24"],
+		"requires": "|Key Sphere 7|"
+		}, 
+		"Randbat Wins - 23-24": {
+		"connects_to": ["Randbat Wins - 25-26"],
+		"requires": "|Key Sphere 8|"
+		}, 
+		"Randbat Wins - 25-26": {
+		"connects_to": ["Randbat Wins - 27-28"],
+		"requires": "|Key Sphere 9|"
+		}, 
+		"Randbat Wins - 27-28": {
+		"connects_to": ["Randbat Wins - 29-30"],
+		"requires": "|Key Sphere 10|"
+		}, 
+		"Randbat Wins - 29-30": {
+		"connects_to": ["Randbat Wins - 31-32"],
+		"requires": "|Key Sphere 11|"
+		}, 
+		"Randbat Wins - 31-32": {
+		"connects_to": ["Finale Sphere"],
+		"requires": "|Key Sphere 12|"
+		}, 
+		"OU Wins - 1-2": {
+			"connects_to": ["OU Wins - 3-4"],
+			"requires": "|Key Sphere 5| AND |@OU:7|"
+			 }, 
+			"OU Wins - 3-4": {
+			"connects_to": ["OU Wins - 5-6"],
+			"requires": "|Key Sphere 6| AND |@OU:9|"
+			 }, 
+			"OU Wins - 5-6": {
+			"connects_to": ["OU Wins - 7-8"],
+			"requires": "|Key Sphere 7| AND |@OU:11|"
+			 }, 
+			"OU Wins - 7-8": {
+			"connects_to": ["OU Wins - 9-10"],
+			"requires": "|Key Sphere 8| AND |@OU:13|"
+			 }, 
+			"OU Wins - 9-10": {
+			"connects_to": ["OU Wins - 11-12"],
+			"requires": "|Key Sphere 9| AND |@OU:15|"
+			 }, 
+			"OU Wins - 11-12": {
+			"connects_to": ["OU Wins - 13-14"],
+			"requires": "|Key Sphere 10| AND |@OU:17|"
+			 }, 
+			"OU Wins - 13-14": {
+			"connects_to": ["OU Wins - 15-16"],
+			"requires": "|Key Sphere 11| AND |@OU:19|"
+			 }, 
+			"OU Wins - 15-16": {
+			"connects_to": ["OU Wins - 17-18"],
+			"requires": "|Key Sphere 12| AND |@OU:21|"
+			 }, 
+			"OU Wins - 17-18": {
+			"connects_to": ["OU Wins - 19-20"],
+			"requires": "|Key Sphere 13| AND |@OU:23|"
+			 }, 
+			"OU Wins - 19-20": {
+			"connects_to": ["OU Wins - 21-22"],
+			"requires": "|Key Sphere 14| AND |@OU:25|"
+			 }, 
+			"OU Wins - 21-22": {
+			"connects_to": ["OU Wins - 23-24"],
+			"requires": "|Key Sphere 15| AND |@OU:27|"
+			 }, 
+			"OU Wins - 23-24": {
+			"connects_to": ["OU Wins - 25-26"],
+			"requires": "|Key Sphere 16| AND |@OU:29|"
+			 }, 
+			"OU Wins - 25-26": {
+			"connects_to": ["OU Wins - 27-28"],
+			"requires": "|Key Sphere 17| AND |@OU:31|"
+			 }, 
+			"OU Wins - 27-28": {
+			"connects_to": ["OU Wins - 29-30"],
+			"requires": "|Key Sphere 18| AND |@OU:33|"
+			 }, 
+			"OU Wins - 29-30": {
+			"connects_to": ["OU Wins - 31-32"],
+			"requires": "|Key Sphere 19| AND |@OU:35|"
+			 }, 
+			"OU Wins - 31-32": {
+			"connects_to": ["Finale Sphere"],
+			"requires": "|Key Sphere 20| AND |@OU:37|"
+			 }, 
+			"UU Wins - 1-2": {
+			"connects_to": ["UU Wins - 3-4"],
+			"requires": "|Key Sphere 5| AND |@UU:7|"
+			 }, 
+			"UU Wins - 3-4": {
+			"connects_to": ["UU Wins - 5-6"],
+			"requires": "|Key Sphere 6| AND |@UU:9|"
+			 }, 
+			"UU Wins - 5-6": {
+			"connects_to": ["UU Wins - 7-8"],
+			"requires": "|Key Sphere 7| AND |@UU:11|"
+			 }, 
+			"UU Wins - 7-8": {
+			"connects_to": ["UU Wins - 9-10"],
+			"requires": "|Key Sphere 8| AND |@UU:13|"
+			 }, 
+			"UU Wins - 9-10": {
+			"connects_to": ["UU Wins - 11-12"],
+			"requires": "|Key Sphere 9| AND |@UU:15|"
+			 }, 
+			"UU Wins - 11-12": {
+			"connects_to": ["UU Wins - 13-14"],
+			"requires": "|Key Sphere 10| AND |@UU:17|"
+			 }, 
+			"UU Wins - 13-14": {
+			"connects_to": ["UU Wins - 15-16"],
+			"requires": "|Key Sphere 11| AND |@UU:19|"
+			 }, 
+			"UU Wins - 15-16": {
+			"connects_to": ["UU Wins - 17-18"],
+			"requires": "|Key Sphere 12| AND |@UU:21|"
+			 }, 
+			"UU Wins - 17-18": {
+			"connects_to": ["UU Wins - 19-20"],
+			"requires": "|Key Sphere 13| AND |@UU:23|"
+			 }, 
+			"UU Wins - 19-20": {
+			"connects_to": ["UU Wins - 21-22"],
+			"requires": "|Key Sphere 14| AND |@UU:25|"
+			 }, 
+			"UU Wins - 21-22": {
+			"connects_to": ["UU Wins - 23-24"],
+			"requires": "|Key Sphere 15| AND |@UU:27|"
+			 }, 
+			"UU Wins - 23-24": {
+			"connects_to": ["UU Wins - 25-26"],
+			"requires": "|Key Sphere 16| AND |@UU:29|"
+			 }, 
+			"UU Wins - 25-26": {
+			"connects_to": ["UU Wins - 27-28"],
+			"requires": "|Key Sphere 17| AND |@UU:31|"
+			 }, 
+			"UU Wins - 27-28": {
+			"connects_to": ["UU Wins - 29-30"],
+			"requires": "|Key Sphere 18| AND |@UU:33|"
+			 }, 
+			"UU Wins - 29-30": {
+			"connects_to": ["UU Wins - 31-32"],
+			"requires": "|Key Sphere 19| AND |@UU:35|"
+			 }, 
+			"UU Wins - 31-32": {
+			"connects_to": ["Finale Sphere"],
+			"requires": "|Key Sphere 20| AND |@UU:37|"
+			 }, 
+			"Double OU Wins - 1-2": {
+			"connects_to": ["Double OU Wins - 3-4"],
+			"requires": "|Key Sphere 5| AND |@Double OU:7|"
+			 }, 
+			"Double OU Wins - 3-4": {
+			"connects_to": ["Double OU Wins - 5-6"],
+			"requires": "|Key Sphere 6| AND |@Double OU:9|"
+			 }, 
+			"Double OU Wins - 5-6": {
+			"connects_to": ["Double OU Wins - 7-8"],
+			"requires": "|Key Sphere 7| AND |@Double OU:11|"
+			 }, 
+			"Double OU Wins - 7-8": {
+			"connects_to": ["Double OU Wins - 9-10"],
+			"requires": "|Key Sphere 8| AND |@Double OU:13|"
+			 }, 
+			"Double OU Wins - 9-10": {
+			"connects_to": ["Double OU Wins - 11-12"],
+			"requires": "|Key Sphere 9| AND |@Double OU:15|"
+			 }, 
+			"Double OU Wins - 11-12": {
+			"connects_to": ["Double OU Wins - 13-14"],
+			"requires": "|Key Sphere 10| AND |@Double OU:17|"
+			 }, 
+			"Double OU Wins - 13-14": {
+			"connects_to": ["Double OU Wins - 15-16"],
+			"requires": "|Key Sphere 11| AND |@Double OU:19|"
+			 }, 
+			"Double OU Wins - 15-16": {
+			"connects_to": ["Double OU Wins - 17-18"],
+			"requires": "|Key Sphere 12| AND |@Double OU:21|"
+			 }, 
+			"Double OU Wins - 17-18": {
+			"connects_to": ["Double OU Wins - 19-20"],
+			"requires": "|Key Sphere 13| AND |@Double OU:23|"
+			 }, 
+			"Double OU Wins - 19-20": {
+			"connects_to": ["Double OU Wins - 21-22"],
+			"requires": "|Key Sphere 14| AND |@Double OU:25|"
+			 }, 
+			"Double OU Wins - 21-22": {
+			"connects_to": ["Double OU Wins - 23-24"],
+			"requires": "|Key Sphere 15| AND |@Double OU:27|"
+			 }, 
+			"Double OU Wins - 23-24": {
+			"connects_to": ["Double OU Wins - 25-26"],
+			"requires": "|Key Sphere 16| AND |@Double OU:29|"
+			 }, 
+			"Double OU Wins - 25-26": {
+			"connects_to": ["Double OU Wins - 27-28"],
+			"requires": "|Key Sphere 17| AND |@Double OU:31|"
+			 }, 
+			"Double OU Wins - 27-28": {
+			"connects_to": ["Double OU Wins - 29-30"],
+			"requires": "|Key Sphere 18| AND |@Double OU:33|"
+			 }, 
+			"Double OU Wins - 29-30": {
+			"connects_to": ["Double OU Wins - 31-32"],
+			"requires": "|Key Sphere 19| AND |@Double OU:35|"
+			 }, 
+			"Double OU Wins - 31-32": {
+			"connects_to": ["Finale Sphere"],
+			"requires": "|Key Sphere 20| AND |@Double OU:37|"
+			 }, 
+			"Double UU Wins - 1-2": {
+			"connects_to": ["Double UU Wins - 3-4"],
+			"requires": "|Key Sphere 5| AND |@Double UU:7|"
+			 }, 
+			"Double UU Wins - 3-4": {
+			"connects_to": ["Double UU Wins - 5-6"],
+			"requires": "|Key Sphere 6| AND |@Double UU:9|"
+			 }, 
+			"Double UU Wins - 5-6": {
+			"connects_to": ["Double UU Wins - 7-8"],
+			"requires": "|Key Sphere 7| AND |@Double UU:11|"
+			 }, 
+			"Double UU Wins - 7-8": {
+			"connects_to": ["Double UU Wins - 9-10"],
+			"requires": "|Key Sphere 8| AND |@Double UU:13|"
+			 }, 
+			"Double UU Wins - 9-10": {
+			"connects_to": ["Double UU Wins - 11-12"],
+			"requires": "|Key Sphere 9| AND |@Double UU:15|"
+			 }, 
+			"Double UU Wins - 11-12": {
+			"connects_to": ["Double UU Wins - 13-14"],
+			"requires": "|Key Sphere 10| AND |@Double UU:17|"
+			 }, 
+			"Double UU Wins - 13-14": {
+			"connects_to": ["Double UU Wins - 15-16"],
+			"requires": "|Key Sphere 11| AND |@Double UU:19|"
+			 }, 
+			"Double UU Wins - 15-16": {
+			"connects_to": ["Double UU Wins - 17-18"],
+			"requires": "|Key Sphere 12| AND |@Double UU:21|"
+			 }, 
+			"Double UU Wins - 17-18": {
+			"connects_to": ["Double UU Wins - 19-20"],
+			"requires": "|Key Sphere 13| AND |@Double UU:23|"
+			 }, 
+			"Double UU Wins - 19-20": {
+			"connects_to": ["Double UU Wins - 21-22"],
+			"requires": "|Key Sphere 14| AND |@Double UU:25|"
+			 }, 
+			"Double UU Wins - 21-22": {
+			"connects_to": ["Double UU Wins - 23-24"],
+			"requires": "|Key Sphere 15| AND |@Double UU:27|"
+			 }, 
+			"Double UU Wins - 23-24": {
+			"connects_to": ["Double UU Wins - 25-26"],
+			"requires": "|Key Sphere 16| AND |@Double UU:29|"
+			 }, 
+			"Double UU Wins - 25-26": {
+			"connects_to": ["Double UU Wins - 27-28"],
+			"requires": "|Key Sphere 17| AND |@Double UU:31|"
+			 }, 
+			"Double UU Wins - 27-28": {
+			"connects_to": ["Double UU Wins - 29-30"],
+			"requires": "|Key Sphere 18| AND |@Double UU:33|"
+			 }, 
+			"Double UU Wins - 29-30": {
+			"connects_to": ["Double UU Wins - 31-32"],
+			"requires": "|Key Sphere 19| AND |@Double UU:35|"
+			 }, 
+			"Double UU Wins - 31-32": {
+			"connects_to": [],
+			"requires": "|Key Sphere 20| AND |@Double UU:37|"
+			 }, 
+			
+		
+		 "Finale Sphere": {
+			"connects_to": [],
+			"requires": "|Key Victory| AND |@Pokémon:125|"
+			}
+			
+}
